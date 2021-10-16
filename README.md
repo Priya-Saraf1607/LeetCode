@@ -1,14 +1,21 @@
 # LeetCode
+## Strings
+1. Valid Palindrome
+2. Add strings
+3. Ismorphic Strings
+4. Reverse
+5. Shortest Word Distance
+6. String Compresssion
+
+## Arrays
+1. Transpose Matrix
+2. Spiral Marix
+3. Image rotation
+4. Move Zeroes
+
+## Inheritance
 
 1. ShapeTester
 2. Sum
-3. Valid Palindrome
-4. Add trings
-5. Image otation
-6. Ismorphic Strings
-7. Move Zeroes
-8. Reverse Strings
-9. Shortest Word Distance
-10. Spiral Marix
-11. String Compression
-12. Transpose Matrix
+
+
